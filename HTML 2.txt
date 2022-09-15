@@ -1,0 +1,2 @@
+1. FAVICON: Favourite Icon used in website tab (www.favicon.cc)
+            <link rel="icon" href="favicon.ico">
